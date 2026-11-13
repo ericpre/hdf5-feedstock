@@ -12,8 +12,6 @@ fortran_compiler:   # [win]
 
 fortran_compiler_version:   # [win]
     - '2025.*'              # [win]
-impi_devel:                 # [win]
-  - 2021.17                 # [win]
 
 # native aarch64 runners, see https://conda-forge.org/docs/reference/runners/
 github_actions_labels:   # [linux and aarch64]
